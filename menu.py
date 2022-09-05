@@ -44,6 +44,7 @@ def menuResta():
     except:
         print("ERROR. No has escrito un número")
         menuResta()
+        
 
 def menuMultiplicar():
     try:
